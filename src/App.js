@@ -1,8 +1,8 @@
 import "./App.css";
 import { MyProvider } from "./context";
 import Function from "./function";
-import Button from "./Butt";
-import Butt2 from "./Butt2";
+import Button from "./updateValue";
+import Butt2 from "./updateNumber";
 
 const App = () => {
   return (
